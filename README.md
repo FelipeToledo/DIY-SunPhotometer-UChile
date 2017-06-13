@@ -1,4 +1,4 @@
-# DIY SunPhotometer UChile
+# DIY Sun Photometer UChile
 
 Resources to assemble and operate your own Low Cost LED handheld Sun Photometer!
 
