@@ -1,0 +1,25 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Aerosols}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Light Emitting Diodes \(LEDs\) as photo diodes}{section.1}% 3
+\BOOKMARK [2][-]{subsection.1.3}{Estimation of Aerosol Optical Thickness \(AOT\)}{section.1}% 4
+\BOOKMARK [1][-]{section.2}{Prototype description}{}% 5
+\BOOKMARK [2][-]{subsection.2.1}{General description}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.2}{Operation Procedure}{section.2}% 7
+\BOOKMARK [2][-]{subsection.2.3}{Systems}{section.2}% 8
+\BOOKMARK [3][-]{subsubsection.2.3.1}{Electronic components}{subsection.2.3}% 9
+\BOOKMARK [3][-]{subsubsection.2.3.2}{Structural components}{subsection.2.3}% 10
+\BOOKMARK [1][-]{section.3}{Notes for the prototype construction}{}% 11
+\BOOKMARK [2][-]{subsection.3.1}{Electronic components}{section.3}% 12
+\BOOKMARK [3][-]{subsubsection.3.1.1}{Steps to place the through-hole components on PCBs}{subsection.3.1}% 13
+\BOOKMARK [3][-]{subsubsection.3.1.2}{How to solder}{subsection.3.1}% 14
+\BOOKMARK [3][-]{subsubsection.3.1.3}{Connections}{subsection.3.1}% 15
+\BOOKMARK [2][-]{subsection.3.2}{External case}{section.3}% 16
+\BOOKMARK [2][-]{subsection.3.3}{Assembling}{section.3}% 17
+\BOOKMARK [1][-]{section.4}{Data Extraction}{}% 18
+\BOOKMARK [1][-]{section.5}{Calibration}{}% 19
+\BOOKMARK [2][-]{subsection.5.1}{Langley-Plot}{section.5}% 20
+\BOOKMARK [2][-]{subsection.5.2}{Correction with a patron instrument}{section.5}% 21
+\BOOKMARK [1][-]{section.6}{ Costs}{}% 22
+\BOOKMARK [1][-]{section.6}{References}{}% 23
+\BOOKMARK [1][-]{section*.65}{Appendix}{}% 24
+\BOOKMARK [1][-]{Appendix.1.A}{Appendix Materials prototype}{}% 25
